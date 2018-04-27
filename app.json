@@ -12,8 +12,8 @@
       "UI",
       "GUI"
     ],
-    "website": "https://github.com/waawal/agendash-heroku/",
-    "repository": "https://github.com/waawal/agendash-heroku/",
+    "website": "https://github.com/GautierT/agendash-heroku/",
+    "repository": "https://github.com/GautierT/agendash-heroku/",
     "logo": "https://cdn.rawgit.com/agenda/agenda/master/agenda.svg",
     "success_url": "/",
     "env": {
